@@ -15,6 +15,4 @@ The program follows a linear selection process:
 4. **Summary:** Prints a final confirmation of exactly what was selected.
 
 ## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarvesh-Krishna/pizza-configurator-logic/blob/main/Untitled0.ipynb)
