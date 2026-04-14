@@ -15,4 +15,4 @@ The program follows a linear selection process:
 4. **Summary:** Prints a final confirmation of exactly what was selected.
 
 ## 🚀 How to Run
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Sarvesh-Krishna/pizza-configurator-logic/blob/main/Untitled0.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1jbH7IuwVAM370pw76uDVMyIObndQ4Wxj#scrollTo=EihOVAYD7GmO)
